@@ -4,6 +4,8 @@ Este projeto de análise de dados em Python, desenvolvido por Mateus, foi inspir
 
 O conjunto de dados utilizado contém informações relevantes, como nome da empresa, país, setor, valor de mercado, investidores e outros detalhes importantes. O projeto envolve etapas como carregamento dos dados, limpeza e pré-processamento, análise exploratória e análise aprofundada. Além disso, visualizações gráficas serão criadas para comunicar os resultados de forma clara.
 
+![Unicornios](https://github.com/mateussoliv/Empresas-Unicornios-DataAnalyst/assets/91861565/386eb95e-3136-4783-b86b-2e331ff4abde)
+
 O projeto é aberto a contribuições e melhorias. Se você tiver ideias para aprimorar a análise ou encontrar problemas, sinta-se à vontade para colaborar. Os créditos ao canal "Data Viking" são dados ao inspirar a criação deste projeto.
 
 Requisitos:
