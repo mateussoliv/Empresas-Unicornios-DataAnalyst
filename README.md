@@ -1,4 +1,4 @@
-#Análise de Dados em Python: Maiores Empresas Unicórnio da Última Década
+Análise de Dados em Python: Maiores Empresas Unicórnio da Última Década
 
 Este projeto de análise de dados em Python, desenvolvido por Mateus, foi inspirado pelo canal do YouTube "Data Viking". O objetivo é analisar as maiores empresas unicórnio da última década. Utilizando Python e bibliotecas populares de análise de dados, como Pandas, NumPy e Matplotlib, o projeto realiza uma análise abrangente para identificar padrões e tendências nas empresas unicórnio.
 
